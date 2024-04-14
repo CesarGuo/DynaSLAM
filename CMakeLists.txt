@@ -82,6 +82,7 @@ ${PROJECT_SOURCE_DIR}/include
 ${EIGEN3_INCLUDE_DIR}
 ${Pangolin_INCLUDE_DIRS}
 /usr/include/python2.7/
+/usr/lib/python2.7/dist-packages/numpy/core/include/numpy/
 /usr/local/lib/python2.7/dist-packages/numpy/core/include/numpy/
 ${Boost_INCLUDE_DIRS}
 )
